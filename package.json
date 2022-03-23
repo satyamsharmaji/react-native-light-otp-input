@@ -1,0 +1,25 @@
+{
+  "name": "react-native-light-otp-input",
+  "version": "1.0.1",
+  "description": "A light weight otp input having one text box and multiple cells as per the requirement ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/satyamsharmaji/react-native-light-otp-input.git"
+  },
+  "keywords": [
+    "react-native-otp-input",
+    "otp",
+    "otp-input",
+    "light-weight-otp-input"
+  ],
+  "author": "Satyam Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyamsharmaji/react-native-light-otp-input/issues"
+  },
+  "homepage": "https://github.com/satyamsharmaji/react-native-light-otp-input#readme"
+}
