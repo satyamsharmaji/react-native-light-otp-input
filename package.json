@@ -1,6 +1,6 @@
 {
   "name": "react-native-light-otp-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A light weight otp input having one text box and multiple cells as per the requirement ",
   "main": "index.js",
   "scripts": {
